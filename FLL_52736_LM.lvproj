@@ -10,7 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="52736-Provincial" Type="Folder" URL="..">
+		<Item Name="52736-Provincial Ryan" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -237,6 +237,10 @@
 			</Item>
 			<Item Name="Gyro Acc Dec Back Dis.vi" Type="VI" URL="../Gyro Acc Dec Back Dis.vi"/>
 			<Item Name="Gyro Acc Dec Fwd C1Stop.vi" Type="VI" URL="../Gyro Acc Dec Fwd C1Stop.vi"/>
+			<Item Name="Gyro PID Fwd Color Assisted.vi" Type="VI" URL="../Gyro PID Fwd Color Assisted.vi"/>
+			<Item Name="M01 Wind Turbine.vi" Type="VI" URL="../M01 Wind Turbine.vi"/>
+			<Item Name="M02 Toy Factory.vi" Type="VI" URL="../M02 Toy Factory.vi"/>
+			<Item Name="M09 Power Plant.vi" Type="VI" URL="../M09 Power Plant.vi"/>
 			<Item Name="Stall D Close.vi" Type="VI" URL="../Stall D Close.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
