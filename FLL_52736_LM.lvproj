@@ -237,12 +237,6 @@
 			</Item>
 			<Item Name="Gyro Acc Dec Back Dis.vi" Type="VI" URL="../Gyro Acc Dec Back Dis.vi"/>
 			<Item Name="Gyro Acc Dec Fwd C1Stop.vi" Type="VI" URL="../Gyro Acc Dec Fwd C1Stop.vi"/>
-			<Item Name="Gyro PID Fwd Color Assisted.vi" Type="VI" URL="../Gyro PID Fwd Color Assisted.vi"/>
-			<Item Name="M09 Power Plant.vi" Type="VI" URL="../M09 Power Plant.vi"/>
-			<Item Name="M10 TV.vi" Type="VI" URL="../M10 TV.vi"/>
-			<Item Name="M11 Power2X.vi" Type="VI" URL="../M11 Power2X.vi"/>
-			<Item Name="Run 01.vi" Type="VI" URL="../Run 01.vi"/>
-			<Item Name="Stall D Close.vi" Type="VI" URL="../Stall D Close.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
